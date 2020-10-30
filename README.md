@@ -1,12 +1,6 @@
-<!--[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)-->
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/MichaelGatuma/MichaelGatuma/blob/main/wave.gif" width="30px">
 
 My name is Michael Gatuma and I'm a software developer/DevOps engineer. You can find me on [![Twitter][1.2]][1]
-
-<!--## &#x270d; Portfolio-->
-
-<!--Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
@@ -66,7 +60,6 @@ Here are some ideas to get you started:
 
 [1]: https://twitter.com/Michi_diaz
 [2]: https://github.com/MichaelGatuma
-[3]: https://www.linkedin.com/in/
 
 
 <!-- Resources -->
