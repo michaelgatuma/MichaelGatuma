@@ -5,7 +5,7 @@ My name is Michael Gatuma and I'm a software developer/DevOps engineer. You can 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0366d6)
@@ -18,6 +18,7 @@ My name is Michael Gatuma and I'm a software developer/DevOps engineer. You can 
 <a href="https://github.com/MichaelGatuma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelGatuma&theme=algolia&show_icons=true&layout=compact&langs_count=8" />
 </a>
+
 <!--[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MichaelGatuma)](https://github.com/MichaelGatuma/github-readme-stats)-->
 <!--<a href="https://github.com/MichaelGatuma/CredMarket-Formalizacao-Front">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelGatuma&theme=algolia&show_icons=true&repo=CredMarket-Formalizacao-Front" />
@@ -25,8 +26,6 @@ My name is Michael Gatuma and I'm a software developer/DevOps engineer. You can 
 <a href="https://github.com/MichaelGatuma/HyperiumInstaller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelGatuma&theme=algolia&show_icons=true&repo=HyperiumInstaller" />
 </a>-->
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 <!--
 **MichaelGatuma/MichaelGatuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
