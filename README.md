@@ -19,13 +19,13 @@ My name is Michael Gatuma and I'm a software developer/DevOps engineer. You can 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelGatuma&theme=algolia&show_icons=true&layout=compact&langs_count=8" />
 </a>
 <!--[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MichaelGatuma)](https://github.com/MichaelGatuma/github-readme-stats)-->
-<a href="https://github.com/MichaelGatuma/CredMarket-Formalizacao-Front">
+<!--<a href="https://github.com/MichaelGatuma/CredMarket-Formalizacao-Front">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelGatuma&theme=algolia&show_icons=true&repo=CredMarket-Formalizacao-Front" />
 </a>
 <a href="https://github.com/MichaelGatuma/HyperiumInstaller">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelGatuma&theme=algolia&show_icons=true&repo=HyperiumInstaller" />
-</a>
-<!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
+</a>-->
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!--
 **MichaelGatuma/MichaelGatuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
