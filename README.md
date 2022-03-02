@@ -15,9 +15,6 @@ My name is Michael Gatuma and I'm a software developer/DevOps engineer. You can 
 <a href="https://github.com/MichaelGatuma">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelGatuma&theme=algolia&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/MichaelGatuma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelGatuma&theme=algolia&show_icons=true&layout=compact&langs_count=8" />
-</a>
 
 <!--[![Michael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MichaelGatuma)](https://github.com/MichaelGatuma/github-readme-stats)-->
 <!--<a href="https://github.com/MichaelGatuma/CredMarket-Formalizacao-Front">
