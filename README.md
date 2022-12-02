@@ -1,6 +1,19 @@
-# Hello, folks! <img src="https://github.com/MichaelGatuma/MichaelGatuma/blob/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/MichaelGatuma/MichaelGatuma/blob/main/wave.gif" width="30px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span align="right" right=""> <img src="https://komarev.com/ghpvc/?username=michaelgatuma&label=Profile%20views&color=0e75b6&style=flat" alt="number of profile visits" /> 
 
-My name is Michael Gatuma and I'm a software developer/DevOps engineer. You can find me on [![Twitter][1.2]][1]
+```cli
+~ $ whoami
+    michael 
+```
+
+ <p align="center">
+    Writing android, server-side, and desktop applications.
+  </p>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/michaelgatuma/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a target="_blank" href="https://stackoverflow.com/users/?tab=profile"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a target="_blank" href="https://www.behance.net/"><img src="https://img.icons8.com/color/50/000000/behance.png" alt="behance"/></a>
+  <a target="_blank" href="https://play.google.com/store/apps/"><img src="https://img.icons8.com/color/50/000000/playstore.png" alt="google"/></a>
+</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
