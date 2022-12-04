@@ -2,9 +2,19 @@
 
 <a href=#><img src="gitsnake.svg"></a>
 
-```cli
+```sh
+~ $ export CODE=254
 ~ $ whoami
-    michael 
+    lectron
+~ $ about
+    Hello, I go by Michael Gatuma, a fullstack software engineer from Nairobi, Kenya.
+    Welcome to my github and feel free to check out my public repos.
+    My email address is michael@gatuma.me, phone +($CODE) 716 076053
+~ $ social -a
+    LinkedIn: 
+    Stackoverflow: 
+~ $ sudo rm -rf
+    
 ```
 
 <p align="center">
