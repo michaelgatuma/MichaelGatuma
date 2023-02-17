@@ -1,4 +1,4 @@
-# Hello! <img src="https://github.com/MichaelGatuma/MichaelGatuma/blob/main/wave.gif" width="30px"> Welcome to Narnia
+# Hello! <img src="https://github.com/MichaelGatuma/MichaelGatuma/blob/main/wave.gif" width="30px"> Welcome to Narnia,
 
 <a href=#><img src="gitsnake.svg"></a>
 
@@ -16,6 +16,7 @@
 ~ $ sudo rm -rf
     
 ```
+# The key to cair paravel got ate but you will be just fine here :)
 
 <p align="center">
     Javascript, PHP, Python, Photoshop, Illustrator Graphics, Wordpress
