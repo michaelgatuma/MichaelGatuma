@@ -16,7 +16,7 @@
 ~ $ sudo rm -rf
     
 ```
-# The key to cair paravel got ate but you will be just fine here :)
+# The keys to cair paravel got ate but you will be just fine here :)
 
 <p align="center">
     Javascript, PHP, Python, Photoshop, Illustrator Graphics, Wordpress
