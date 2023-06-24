@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">    
-  <img src="https://komarev.com/ghpvc/?username=michaelgatuma&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="number of profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=michaelgatuma&label=Profile%20views&color=00993c&style=for-the-badge" alt="number of profile visits" />
 </p>
 
 <!-- 
