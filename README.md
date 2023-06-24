@@ -4,15 +4,16 @@
 
 ```sh
 ~ $ export CODE=254
+~ $ export PREFIX=716
 ~ $ whoami
     lectron
 ~ $ about
-    Hello, I go by Michael Gatuma, a fullstack software engineer from Nairobi, Kenya.
+    Hello, my name is Mike, a dedicated fullstack software developer from Nairobi, Kenya.
     Welcome to my github and feel free to check out my public repos.
-    My email address is michael@gatuma.me, phone +($CODE) 716 076053
+    My email address is michael@gatuma.me, phone +($CODE) $PREFIX 076053
 ~ $ social -a
-    LinkedIn: 
-    Stackoverflow: 
+    LinkedIn: https://linkedin.com/in/michael-gatuma
+    Stackoverflow: https://stackoverflow.com/users/12446308/michael-gatuma
 ~ $ sudo rm -rf
     
 ```
@@ -27,7 +28,7 @@
 </p>
 
 <p align="center">    
-  <img src="https://komarev.com/ghpvc/?username=michaelgatuma&label=Profile%20views&color=0e75b6&style=flat" alt="number of profile visits" />
+  <img src="https://komarev.com/ghpvc/?username=michaelgatuma&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="number of profile visits" />
 </p>
 
 <!-- 
