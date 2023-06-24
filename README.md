@@ -20,15 +20,16 @@
 # The keys to cair paravel got ate but you will be just fine here :)
 
 <p align="center">
-    Javascript, PHP, Python, Photoshop, Illustrator Graphics, Wordpress
-  </p>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/michaelgatuma/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
-  <a target="_blank" href="https://stackoverflow.com/users/?tab=profile"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
+    Javascript, Typescript, PHP, Vue.js, Alpine.js, Laravel, Tailwind-css, Vuetify, Photoshop, Wordpress, DevOps
 </p>
 
 <p align="center">    
   <img src="https://komarev.com/ghpvc/?username=michaelgatuma&label=Profile%20views&color=00993c&style=for-the-badge" alt="number of profile visits" />
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://linkedin.com/in/michael-gatuma"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a target="_blank" href="https://stackoverflow.com/users/12446308/michael-gatuma"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>
 
 <!-- 
