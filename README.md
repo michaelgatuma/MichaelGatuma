@@ -8,8 +8,8 @@
 ~ $ whoami
     lectron
 ~ $ about
-    Hello, my name is Mike, a dedicated fullstack software developer from Nairobi, Kenya.
-    Welcome to my github and feel free to check out my public repos.
+    Hello, my name is Mike, a fullstack software engineer from Nairobi, Kenya.
+    Welcome and feel free to check out my public repos.
     My email address is michael@gatuma.me, phone +($CODE) $PREFIX 076053
 ~ $ social -a
     LinkedIn: https://linkedin.com/in/michael-gatuma
